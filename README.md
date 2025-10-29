@@ -19,12 +19,10 @@
 
 ```javascript
 const nat = {
-    pronouns: "she/her",
     role: "Software Developer",
     location: "Coding from anywhere 🌍",
     currentFocus: "Building amazing web experiences",
-    hobbies: ["Coding", "3D Modeling", "Learning New Tech"],
-    funFact: "I turn coffee into code ☕➡️💻"
+    hobbies: ["Calisthenics/Gymnastics", "Travelling"],
 };
 ```
 
