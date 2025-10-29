@@ -34,9 +34,6 @@ const nat = {
     website: "https://natdevs.com"
 };
 ```
-
-Self-taught developer with a decade-long passion for programming that began with game development at age 12. Specialized in TypeScript and modern web technologies, with a strong focus on cybersecurity and system-level understanding. Transitioned to Arch Linux for daily use to deepen knowledge of system administration and security fundamentals. Currently pursuing cybersecurity expertise through TryHackMe, with particular interest in incident response and threat analysis.
-
 <br/>
 
 ## 🛠️ Tech Stack
