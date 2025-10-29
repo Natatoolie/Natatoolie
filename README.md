@@ -119,20 +119,12 @@ const nat = {
   <a href="https://natdevs.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="mailto:vaitekunas.natas@gmail.com">
+  <a href="mailto:me@natdevs.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/Natatoolie" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <p>
-    📧 <b>Email:</b> vaitekunas.natas@gmail.com<br/>
-    🌐 <b>Portfolio:</b> <a href="https://natdevs.com">natdevs.com</a><br/>
-    📍 <b>Location:</b> England, UK
-  </p>
 </div>
 
 <br/>
