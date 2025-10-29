@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi!%20I'm%20Nat%20👋&fontSize=42&fontAlignY=30&desc=Software%20Developer%20|%20Creative%20Coder%20|%20Problem%20Solver&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi!%20I'm%20Nat%20👋&fontSize=42&fontAlignY=30&desc=Software%20Developer%20|%20Cybersecurity%20Enthusiast%20|%20Problem%20Solver&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+💻;UI%2FUX+Enthusiast+🎨;Always+Learning+New+Things+📚;Building+Cool+Projects+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Developer+💻;Cybersecurity+Enthusiast+🔐;Self-Taught+Programmer+📚;10%2B+Years+of+Coding+Passion+🚀;Arch+Linux+Daily+User+🐧" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -17,14 +17,25 @@
 
 ## 🚀 About Me
 
-```javascript
+```typescript
 const nat = {
     role: "Software Developer",
-    location: "Coding from anywhere 🌍",
-    currentFocus: "Building amazing web experiences",
-    hobbies: ["Calisthenics/Gymnastics", "Travelling"],
+    location: "England, UK 🇬🇧",
+    languages: ["English", "Lithuanian"],
+    currentFocus: "Cybersecurity & Secure Application Development",
+    interests: [
+        "Building robust web applications",
+        "Cybersecurity & incident response",
+        "Linux system administration (Arch btw 🐧)",
+        "TryHackMe challenges",
+        "Game development & scripting"
+    ],
+    philosophy: "Relentless problem-solver who debugs until solutions are found",
+    website: "https://natdevs.com"
 };
 ```
+
+Self-taught developer with a decade-long passion for programming that began with game development at age 12. Specialized in TypeScript and modern web technologies, with a strong focus on cybersecurity and system-level understanding. Transitioned to Arch Linux for daily use to deepen knowledge of system administration and security fundamentals. Currently pursuing cybersecurity expertise through TryHackMe, with particular interest in incident response and threat analysis.
 
 <br/>
 
@@ -34,29 +45,41 @@ const nat = {
 
 ### 💻 Frontend Development
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
 </p>
 
 ### ⚙️ Backend Development
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" alt="Bun"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
 
-### 🛠️ Tools & Others
+### 🔐 Cybersecurity & Network Analysis
 <p>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Security-FF6B6B?style=for-the-badge&logo=security&logoColor=white" alt="Security"/>
+</p>
+
+### 🐧 System Administration & Tools
+<p>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
 </p>
 
 </div>
@@ -96,21 +119,23 @@ const nat = {
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="https://www.youtube.com/@YourChannel" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  <a href="https://natdevs.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://www.instagram.com/YourProfile" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://discord.gg/YourServer" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:vaitekunas.natas@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/YourProfile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://github.com/Natatoolie" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <p>
+    📧 <b>Email:</b> vaitekunas.natas@gmail.com<br/>
+    🌐 <b>Portfolio:</b> <a href="https://natdevs.com">natdevs.com</a><br/>
+    📍 <b>Location:</b> England, UK
+  </p>
 </div>
 
 <br/>
